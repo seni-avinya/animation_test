@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class DashboardAnimcation extends StatefulWidget {
-  const DashboardAnimcation({super.key});
+class Dashboard extends StatefulWidget {
+  const Dashboard({super.key});
 
   @override
-  _DashboardAnimcationState createState() => _DashboardAnimcationState();
+  _DashboardState createState() => _DashboardState();
 }
 
-class _DashboardAnimcationState extends State<DashboardAnimcation> {
+class _DashboardState extends State<Dashboard> {
   bool _big = false;
 
   @override

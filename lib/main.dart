@@ -1,4 +1,5 @@
-import 'package:animation/screen/dashboard/dashboard.dart';
+// import 'package:animation/screen/dashboard/dashboard.dart';
+import 'package:animation/screen/dashboard/dashboard_animcation.dart';
 import 'package:flutter/material.dart';
 
 void main() {
